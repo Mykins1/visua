@@ -13,7 +13,7 @@ export default function Navbar(){
             />
             <input
               type="text"
-              className="bg-gray-200 p-2 pl-10 rounded-md w-full transition duration-200 font-normal"
+              className="bg-gray-200 p-2 pl-10 rounded-lg w-full transition duration-200 font-normal"
               placeholder="Search..."
             />
           </div>
