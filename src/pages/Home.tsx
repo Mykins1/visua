@@ -1,4 +1,4 @@
-import Gallery from "../components/images.tsx";
+import Gallery from "../components/Gallery.tsx";
 
 export default function Home() {
   return (
